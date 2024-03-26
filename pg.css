@@ -1,8 +1,12 @@
+body{
+    background-color: #000000;
+}
+
 .bg-color{
-    background-color: #ffffff;
+    background-color: #202020;
 }
 .line1{
-    background-color: #ffffff;
+    background-color: #202020;
 }
 .text-collor{
     color: #4CA649;
@@ -64,15 +68,18 @@ article ul li {
     padding-right: 6%;
     text-align:center;
 }
+.nav-item:hover{
+    background-color: #202020;
+}
 
-#0{
+h1{
     color: #b9b9b9;
 }
 
-#1{
+h4{
     color: #b9b9b9;
 }
 
-#2{
+br{
     color: #b9b9b9;
 }
